@@ -4,7 +4,7 @@ return {
 	name = "Tiny Building Constructions",
 	tags = { "Graphics", "Utilities" },
 	picture = "thumb.png",
-	supported_version = "1.9.*",
+	supported_version = "2.0.*",
 	originalUploader = "folk",
 	remote_file_id = 803491311,
 	readme = "readme.md",
